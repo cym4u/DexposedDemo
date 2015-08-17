@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/DexposedDemo.iml" filepath="$PROJECT_DIR$/DexposedDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dexposed/dexposed.iml" filepath="$PROJECT_DIR$/dexposed/dexposed.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dexposedexamples/dexposedexamples.iml" filepath="$PROJECT_DIR$/dexposedexamples/dexposedexamples.iml" />
+      <module fileurl="file://$PROJECT_DIR$/patchsample/patchsample.iml" filepath="$PROJECT_DIR$/patchsample/patchsample.iml" />
+    </modules>
+  </component>
+</project>
